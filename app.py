@@ -5,7 +5,7 @@ import base64
 from pathlib import Path
 
 st.set_page_config(
-    page_title="Enjoy Dusshera Vacation",
+    page_title="Enjoy Holidays",
     page_icon="🔌",
     layout="centered"
 )
@@ -215,7 +215,7 @@ body {
          aria-label="Drag plug into adapter">🔌</div>
 
     <div class="message" id="message">
-        🎉 Enjoy Dusshera Vacation 🎉
+        🎉 Enjoy Your Holidays 🎉
     </div>
 </div>
 
