@@ -215,7 +215,7 @@ body {
          aria-label="Drag plug into adapter">🔌</div>
 
     <div class="message" id="message">
-        🎉 Enjoy Your Holidays 🎉
+        🎉 Poyi Ni Pani Chusko Ra Erri Puka 🎉
     </div>
 </div>
 
