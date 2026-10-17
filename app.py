@@ -107,7 +107,7 @@ body {
     top: 66%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 43px;
+    font-size: 65px;
     cursor: grab;
     touch-action: none;
     user-select: none;
