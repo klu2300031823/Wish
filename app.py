@@ -77,7 +77,7 @@ body {
 /* Adapter at the bottom of the shirt */
 .adapter {
     position: absolute;
-    top: 50%;
+    top: 56%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 58px;
@@ -122,7 +122,7 @@ body {
 
 .arrow {
     position: absolute;
-    top: 55%;
+    top: 61%;
     left: 50%;
     transform: translateX(-50%);
     color: white;
